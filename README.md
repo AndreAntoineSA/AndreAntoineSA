@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreAntoineSA
-- 👀 I’m interested Front-end Web Application Development.
-- 🌱 I’m currently improving my skills in React.
-- 💞️ I’m looking for CDI opportunity as Web Developer.
+- 👀 Interested Front-end Web Application Development.
+- 🌱 Currently mastering my skills in React.
+- 💞️ Looking for CDI opportunity as Web Developer.
 - 📫 How to reach me andreantoine.sa@gmail.com.
 
 🧰 Toolbox
