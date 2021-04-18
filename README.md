@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @AndreAntoineSA
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Andre!
+
+---
+
 - 👀 Interested Front-end Web Application Development.
 - 🌱 Currently mastering my skills in React.
 - 💞️ Looking for CDI opportunity as Web Developer.
