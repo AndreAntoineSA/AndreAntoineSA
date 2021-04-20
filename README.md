@@ -19,10 +19,16 @@
 ---
 🖥 Projects
 
+# Quiz App - React | Typescript | Firebase
+https://quiz-app-andre.web.app
+
+# Movie List - React | Javascript | TailwindCSS | Firebase
 https://movie-list-andre.web.app
 
+# NetCine Movie Review - Stack - MERN | React | Javascript | CSS | Firebase 
 https://netcine-epita.web.app/
 
+# NetCine Movie Trailer - React | Javascript | CSS | Firebase 
 https://netcine-andre.web.app/
 
 
