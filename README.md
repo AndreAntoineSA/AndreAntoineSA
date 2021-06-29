@@ -21,12 +21,6 @@
 
 ## 🖥 Projects
 
-### Quiz App - React | Typescript | TailwindCSS | Firebase
-https://quiz-app-andre.web.app
-
-### Movie List - React | Javascript | TailwindCSS | Firebase
-https://movie-list-andre.web.app
-
 ### NetCine Movie Review - MERN(Stack) | React | JavaScript | Node.JS | CSS | Firebase 
 https://netcine-epita.web.app/
 
